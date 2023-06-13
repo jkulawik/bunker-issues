@@ -1,9 +1,15 @@
 # Amnesia: Bunker modding tools bugs
 
-This repository is a tracker of known bugs (and possibly fixes) present in the Amnesia: Bunker development tools.
+This repository is a tracker of known bugs (and possibly fixes) present in Amnesia: Bunker's engine, development tools and mod support in general.
 
-Bugs will be tracked with the Issues feature and ones with known fixes will be marked with an appopriate tag.
+Bugs will be tracked with the [issues](https://github.com/jkulawik/bunker-issues/issues) feature and ones with known fixes will be marked with an appopriate tag.
 
-Bugs which get patched out by Frictional Games might get closed.
+Bugs which got patched out by Frictional Games might get closed.
 
-Feel encouraged to contribute and talk in the Issue pages! Just make sure the issue you're posting isn't a copy of another issue.
+# Contributing
+
+Feel encouraged to contribute and talk in the Issue pages!
+
+Just make sure to:
+- check if the issue you want to post isn't a copy of another issue
+- follow title conventions of other issues 
