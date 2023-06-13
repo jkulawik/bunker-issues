@@ -14,4 +14,6 @@ Just make sure to:
 - check if the issue you want to post isn't a copy of another issue
 - follow title conventions of other issues 
 
-Asides from submitting new issues and solutions, you can confirm that issues with the tag https://github.com/jkulawik/bunker-issues/labels/old%3Aunconfirmed still appear in the Bunker editors.
+Asides from submitting new issues and solutions, you can also:
+- confirm that issues with the tag https://github.com/jkulawik/bunker-issues/labels/old%3Aunconfirmed still appear in the Bunker editors
+- propose more concise and descriptive titles for existing issues
