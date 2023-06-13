@@ -1,6 +1,6 @@
-# Amnesia: Bunker modding tools bugs
+# Amnesia: Bunker development bugs
 
-This repository is a tracker of known bugs (and possibly fixes) present in Amnesia: Bunker's engine, development tools and mod support in general.
+This repository is a tracker of known bugs (and possibly fixes) present in Amnesia: Bunker's engine, development tools and mod support in general. This does not include bugs in the game itself or things caused by mistakes in scripting.
 
 Bugs will be tracked with the [issues](https://github.com/jkulawik/bunker-issues/issues) feature and ones with known fixes will be marked with an appopriate tag.
 
