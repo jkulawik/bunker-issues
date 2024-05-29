@@ -17,3 +17,11 @@ Just make sure to:
 Asides from submitting new issues and solutions, you can also:
 - confirm that issues with the tag https://github.com/jkulawik/bunker-issues/labels/old%3Aunconfirmed still appear in the Bunker editors
 - propose more concise and descriptive titles for existing issues
+
+# Official patch notes
+
+* [v1.1](https://frictionalgames.com/2023-06-amnesia-the-bunker-updated-1-1/)
+* [v1.15](https://frictionalgames.com/2023-07-amnesia-the-bunker-second-update-1-15/)
+* [Halloween update](https://frictionalgames.com/2023-10-amnesia-the-bunker-halloween-update-launch/)
+* [Accessibility patch](https://frictionalgames.com/2024-01-amnesia-the-bunker-accessibility-patch/)
+* [v1.31](https://frictionalgames.com/2024-02-amnesia-the-bunker-updated-1-31/)
