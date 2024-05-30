@@ -25,7 +25,7 @@ Some of the version numbers are a mess, but the Steam depot dates match the blog
 | Version                                                                                  | Release date | Nickname                | Misreported by the engine |
 |------------------------------------------------------------------------------------------|--------------|-------------------------|---------------------------|
 | [v1.1](https://frictionalgames.com/2023-06-amnesia-the-bunker-updated-1-1/)              | 13.06.2023   |                         |                           |
-| [v1.15](https://frictionalgames.com/2023-07-amnesia-the-bunker-second-update-1-15/)      | 3.07.2023    |                         |                           |
+| [v1.15](https://frictionalgames.com/2023-07-amnesia-the-bunker-second-update-1-15/)      | 3.07.2023    |                         | As 1.10                   |
 | [v1.22](https://frictionalgames.com/2023-10-amnesia-the-bunker-halloween-update-launch/) | 25.10.2023   | The Halloween Update    |                           |
 | [v1.3](https://frictionalgames.com/2024-01-amnesia-the-bunker-accessibility-patch/)      | 8.01.2024    | The Accessibility Patch | As 1.03                   |
 | [v1.31](https://frictionalgames.com/2024-02-amnesia-the-bunker-updated-1-31/)            | 12.02.2024   |                         | As 1.04                   |
