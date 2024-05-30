@@ -22,6 +22,7 @@ Asides from submitting new issues and solutions, you can also:
 
 * [v1.1](https://frictionalgames.com/2023-06-amnesia-the-bunker-updated-1-1/)
 * [v1.15](https://frictionalgames.com/2023-07-amnesia-the-bunker-second-update-1-15/)
-* [Halloween update](https://frictionalgames.com/2023-10-amnesia-the-bunker-halloween-update-launch/)
-* [Accessibility patch](https://frictionalgames.com/2024-01-amnesia-the-bunker-accessibility-patch/)
+* v1.22 (confusingly, both these updates seem to use the same version tag?)
+  * [Halloween update](https://frictionalgames.com/2023-10-amnesia-the-bunker-halloween-update-launch/)
+  * [Accessibility patch](https://frictionalgames.com/2024-01-amnesia-the-bunker-accessibility-patch/)
 * [v1.31](https://frictionalgames.com/2024-02-amnesia-the-bunker-updated-1-31/)
